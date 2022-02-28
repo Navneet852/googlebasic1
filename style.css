@@ -28,7 +28,7 @@ header input{
 main{
     display: flex;
     flex-direction: column;
-     margin: 200px 0;
+     margin: 100px 0;
 }
 .but1,.but2{
     padding: 13px;
